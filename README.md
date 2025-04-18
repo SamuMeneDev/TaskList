@@ -6,6 +6,7 @@ Uma lista de tarefas (TODO list), é possivel deletar e criar tarefas novas. As 
 
 
 ### Link do Site: <a href="https://samumenedev.github.io/TaskList/">TaskList v1.1</a>
+<img src="https://github.com/SamuMeneDev/TaskList/blob/241d18bf01eb1cf10eaa05a6a2cbee5f455254c3/img/preview.png" alt="Preview do site">
 
 ## Tecnologias Usadas
 
