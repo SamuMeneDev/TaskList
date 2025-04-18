@@ -165,6 +165,9 @@ span {
         padding: 10px;
         min-height: 370px;
     }
+    #footer {
+        padding:10px;
+    }
     ul {
         max-height: 150px;
     }
@@ -172,7 +175,4 @@ span {
         max-width: 115px;
     }
 
-}
-@media screen and (min-width: 700) and (min-height:1000px) {
-    
 }
